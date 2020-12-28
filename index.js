@@ -3,28 +3,21 @@ const reviews = [
     id: 1,
     name: "Siamak",
     img: "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
-    text: `1: Siamak Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Reprehenderit ullam possimus vitae id esse alias necessitatibus
-          laborum corporis quo labore aperiam harum corrupti laudantium suscipit
-          eos, praesentium sunt eaque minus!`,
+    text: `The spot was perfect for camouflage. At least that's what she thought when she picked the spot. She couldn't imagine that anyone would ever be able to see her in these surroundings. So there she sat, confident that she was hidden from the world and safe from danger. Unfortunately, she had not anticipated that others may be looking upon her from other angles, and now they were stealthily descending toward her hiding spot.`,
   },
   {
     id: 2,
-    name: "asma",
+    name: "John",
     img:
       "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/07/solar_orbiter_s_first_view_of_the_sun2/22133123-1-eng-GB/Solar_Orbiter_s_first_view_of_the_Sun_pillars.png",
-    text: `2: asma asma asma asma asma asma asma asma asma asma asma asma asma asma 
-    asma asma asma asma asma asma asma asma asma asma asma asma asma asma asma asma
-    asma asma asma asma asma asma asma asma asma asma asma asma asma asma asma asma`,
+    text: `Do you really listen when you are talking with someone? I have a friend who listens in an unforgiving way. She actually takes every word you say as being something important and when you have a friend that listens like that, words take on a whole new meaning.`,
   },
   {
     id: 3,
-    name: "Farzam",
+    name: "Marry",
     img:
       "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8aHVtYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-    text: `3: Farzam Lorem ipsum dolor sit amet Farzam Lorem ipsum dolor sit amet Farzam Lorem ipsum dolor sit amet 
-    Farzam Lorem ipsum dolor sit amet
-    Farzam Lorem ipsum dolor sit amet Farzam Lorem ipsum dolor sit amet `,
+    text: `The lone lamp post of the one-street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town. A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.`,
   },
 ];
 let author = document.getElementById("name");
